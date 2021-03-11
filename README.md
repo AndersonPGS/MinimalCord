@@ -1,16 +1,18 @@
-## MinimalCord
-Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.
+## MinimalCord - AndersonPGS Edition
+A version custom from <a href="https://github.com/DiscordStyles/MinimalCord">MinimalCord</a>
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3363](https://betterdiscord.net/ghdl?id=3363)  
-Powercord Install: `git clone https://github.com/DiscordStyles/MinimalCord`
+Theme Download: [https://raw.githubusercontent.com/AndersonPGS/MinimalCord/master/MinimalCord%20PaivaVersion.theme.css](https://raw.githubusercontent.com/AndersonPGS/MinimalCord/master/MinimalCord%20PaivaVersion.theme.css)  
+1 - Download the CSS archive. \
+2 - Open themes folder of BetterDiscord \
+3 - Paste css archive in page.
 - - -
 
 Server Chat - **DARK**
-![Server Chat](https://i.imgur.com/W33dgMJ.png)
+![Server Chat](https://imgur.com/a/t0wfnZY)
 
-Server Chat - **LIGHT**
-![Server Chat](https://i.imgur.com/vtPiMFw.png)
+Server Chat - **LIGHT** \
+I didn't edit the light version because nobody uses the light version, if you use the light version, please stop using it. 🤠
 
 ## License
 
