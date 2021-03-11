@@ -9,7 +9,7 @@ Theme Download: [https://raw.githubusercontent.com/AndersonPGS/MinimalCord/maste
 - - -
 
 Server Chat - **DARK**
-![Server Chat](https://imgur.com/a/t0wfnZY)
+![Server Chat](https://i.imgur.com/VtHtwdW.png)
 
 Server Chat - **LIGHT** \
 I didn't edit the light version because nobody uses the light version, if you use the light version, please stop using it. 🤠
